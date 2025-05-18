@@ -107,3 +107,19 @@
 [18May2025 01:48:40.760] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=61, y=67, z=-63}
 [18May2025 01:48:42.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BenjaMC1: Set own game mode to Creative Mode]
 [18May2025 01:49:08.486] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BenjaMC1 moved too quickly! -0.04807893767029725,-2.318441601941686,-9.752675206133986
+[18May2025 01:49:56.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BenjaMC1: Set own game mode to Survival Mode]
+[18May2025 01:54:20.165] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BenjaMC1 lost connection: Disconnected
+[18May2025 01:54:20.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaMC1 left the game
+[18May2025 01:54:20.249] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18May2025 01:55:06.865] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4c28ce4b[id=<null>,name=BenjaMC1,properties={},legacy=false] (/127.145.119.18:55409) lost connection: Disconnected
+[18May2025 01:55:47.962] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4ee877d2[id=<null>,name=BenjaMC1,properties={},legacy=false] (/127.145.119.18:59781) lost connection: Disconnected
+[18May2025 01:55:48.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18May2025 01:55:48.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18May2025 01:55:48.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18May2025 01:55:48.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18May2025 01:55:51.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18May2025 01:55:51.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18May2025 01:55:51.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18May2025 01:55:51.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18May2025 01:55:51.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18May2025 01:55:51.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
