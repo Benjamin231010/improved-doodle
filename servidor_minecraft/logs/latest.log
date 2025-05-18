@@ -105,3 +105,18 @@
 [18May2025 16:32:17.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BenjaMC1: Set own game mode to Creative Mode]
 [18May2025 16:32:36.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaMC1 has made the advancement [Monster Hunter]
 [18May2025 16:37:12.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BenjaMC1 moved too quickly! -2.9863110687575443,4.118974526982868,-9.417659727222087
+[18May2025 16:40:34.844] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BenjaMC1 lost connection: Disconnected
+[18May2025 16:40:39.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BenjaMC1 left the game
+[18May2025 16:40:39.482] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4594ms or 91 ticks behind
+[18May2025 16:43:27.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[18May2025 16:43:27.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: home/codespace/.python/current/bin/python3 /workspaces/improved-doodle/msx.py<--[HERE]
+[18May2025 16:43:54.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18May2025 16:43:54.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18May2025 16:43:54.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18May2025 16:43:55.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18May2025 16:43:55.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18May2025 16:43:55.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18May2025 16:43:55.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18May2025 16:43:55.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18May2025 16:43:55.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18May2025 16:43:55.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
